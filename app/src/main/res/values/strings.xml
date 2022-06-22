@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Clickeat</string>
+
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_commande_item">Favories</string>
+    <string name="bottom_add_item">Ajouter</string>
+
+
+    <!-- Page commmande -->
+    <string name="home_page_title">Ma collection</string>
+    <string name="home_page_last_order">Mes collections favorites </string>
+    <string name="home_page_number_order">Numéro de commande</string>
+    <string name="home_page_description">Description de la commande</string>
+
+
+    <!-- Page commande validé -->
+
+    <string name="order_validate_page_title">Commande Validé</string>
+
+    <!-- Page ajouter une commande-->
+    <string name="add_order_page">Ajout d\'un produit</string>
+    <string name="add_order_page_upload_button">Charger Image</string>
+    <string name="add_order_page_name_input">@string/number_order</string>
+    <string name="add_order_page_description">@string/number_order_description</string>
+ 
+    <string-array name="add_order_page_order_status">
+        <item>état de la commande : accepté</item>
+        <item>état de la commande : en cours de préparation</item>
+        <item>état de la commande : validé</item>
+
+    </string-array>
+
+    <string-array name="add_order_page_category">
+        <item> catégorie : course</item>
+        <item> catégorie : burger</item>
+        <item> catégorie : pizza</item>
+        <item> catégorie : sushi</item>
+
+    </string-array>
+
+
+    <string name="add_order_page_confirm_button">Confirmer</string>
+
+    <!-- fenêtre Popup -->
+    <string name="pop_up_order_new">Nouvelle commande</string>
+    <string name="pop_up_order_description_title">Numéro de commande</string>
+    <string name="pop_up_order_comment_subtitle">Commentaire</string>
+    <string name="pop_up_order_status_title">état de la commande</string>
+    <string name="pop_up_order_description_subtitle">Description</string>
+    <string name="pop_up_order_category_title">Catégorie</string>
+    <string name="pop_up_order_tpe_of_category_subtitle">Type de catégorie</string>
+
+
+    <!-- commande personalisé -->
+
+    <string name="number_order">Numéro de la commande</string>
+    <string name="number_order_description">Descritpion de la commande</string>
+
+
+
+
+
+</resources>
